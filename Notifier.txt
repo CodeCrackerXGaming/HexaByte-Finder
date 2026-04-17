@@ -20,4 +20,4 @@ getgenv().TargetPetNames = {
 ", -- New secret added
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CodeCrackerXGaming/HexaByte-Finder/refs/heads/main/BotHop2.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CodeCrackerXGaming/HexaByte-Finder/refs/heads/main/BotHop.lua"))()
