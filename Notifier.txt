@@ -1,0 +1,23 @@
+getgenv().webhook = "https://discord.com/api/webhooks/1494469567970279496/9-nbP5O2NzHiYmEBwu2FMQYlgQ_0h3dgi37J6vagSs23OUrZZQnhJDtPvEKU0UL32xG9"
+
+getgenv().TargetPetNames = {
+"Las Sis",
+"Los Hotspotsitos",
+"Celularcini Viciosini",
+"Los Bros",
+"Tralaledon",
+"Esok Sekolah",
+"Los Tacoritas",
+"Ketupat Kepat",
+"Tictac Sahur",
+"La Supreme Combinasion",
+"Ketchuru and Musturu",
+"Garama and Madundung",
+"Spaghetti Tualetti",
+"Dragon Cannelloni",
+"Strawberry Elephant",
+"La Grande Combination",
+", -- New secret added
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CodeCrackerXGaming/HexaByte-Finder/refs/heads/main/BotHop2.lua"))()
